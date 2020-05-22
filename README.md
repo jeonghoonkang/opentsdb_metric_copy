@@ -53,7 +53,7 @@
               volumes:
                   - "호스트 디렉토리:/app/apps/00_otsdb_copy/"
               environment:
-                  - IP_ADDRESS=호스트 ip or docker-toolbox ip
+                  - IP_ADDRESS=<호스트 ip> or <docker-toolbox ip>
 
    ex)
 
@@ -79,3 +79,11 @@
               environment:
                   - IP_ADDRESS=192.168.99.100
                   
+## 코드 수정
+  docker-compose.yml 파일에서 app의 볼룸공유 디렉토리의 this_run.sh파일 수정하고 저장
+
+## 수정한코드 실행
+    docker restart <app container name>
+  
+## 컨테이너 ssh 접속
+    ssh root@[<호스트 ip> or <docker-toolbox ip>] -p <사용자가 지정한 포트번호>
