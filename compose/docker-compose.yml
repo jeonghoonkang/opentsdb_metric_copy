@@ -1,0 +1,21 @@
+# Author : ChulseoungChae
+
+version: '3'
+
+services: 
+    opentsdb:
+      image: petergrace/opentsdb-docker:latest
+      restart: always
+      ports:
+          - "60010:4242"
+      #environment:
+      #    - WAITSECS=30   
+
+    app:
+      image: cschae1123/opentsdb_metric_copy:v2
+      ports:
+          - "9001:22"
+      volumes:
+          - "/c/Users/tinyos/Desktop/src/compose/app_volume:/app/apps/00_otsdb_copy/"
+      environment:
+          - IP_ADDRESS=192.168.99.100
