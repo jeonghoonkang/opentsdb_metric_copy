@@ -80,7 +80,7 @@
                   - IP_ADDRESS=192.168.99.100
                   
 ## 코드 수정
-  docker-compose.yml 파일에서 app의 볼룸공유 디렉토리의 this_run.sh파일 수정하고 저장
+  docker-compose.yml 파일에서 app의 볼룸공유 디렉토리의 원하는 파일 editor로 수정가능
 
 ## 수정한코드 실행
     docker restart <app container name>
