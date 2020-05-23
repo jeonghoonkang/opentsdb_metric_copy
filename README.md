@@ -10,9 +10,17 @@
 
 
 ## 사용방법
-  1. github repo clone
+  1. github repo clone 혹은 zip파일 다운로드
   
-          git clone https://github.com/ChulseoungChae/opentsdb_metric_copy.git
+      - git clone
+      
+            git clone https://github.com/ChulseoungChae/opentsdb_metric_copy.git
+          
+        or
+      
+      - 아래링크에서 zip파일 다운로드
+      
+          [Link(https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)](https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)
           
   2. compose 디렉토리로 이동
   
