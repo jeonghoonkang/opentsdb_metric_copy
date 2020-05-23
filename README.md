@@ -19,14 +19,28 @@
           cd compose
   
   3. docker-compose.yml파일 수정(수정할 내용은 하단에 기재)
+      - 필수 수정부분 설명
+            
+            app:   
+              #ssh 접속을 위한 포트 설정
+              ports:
+                  - "원하는 포트:22"
+              #/compose/app_volume과 볼륨공유를하여 app_volume내의 파일들을 수정하면 app 컨테이너 내부의 파일도 동일하게 수정된다
+              volumes:
+                  - "<compose 깃헙 레포를 다운받은 경로+/compose/app_volume>:/app/apps/00_otsdb_copy/"
+              #데이터를 입력할 TSDB의 ip를 써놓는것, opentsdb 컨테이너를 실행하면 web주소는 http://<host ip>:<60010>가 되기때문에 이부분은 
+              host ip(혹은 docker-toolbox ip)를 써주면된다
+              environment:
+                  - IP_ADDRESS=<host ip 혹은 docker-toolbox ip>
+                  
 
-  3. docker-compose로 opentsdb container 실행
+  4. docker-compose로 opentsdb container 실행
 
           docker-compose up -d opentsdb
 
-  4. 1분 대기
+  5. 1분 대기
 
-  5. docker-compose로 opentsdb copy container 실행
+  6. docker-compose로 opentsdb copy container 실행
 
           docker-compose up -d app
 
@@ -51,10 +65,10 @@
               ports:
                   - "원하는 포트:22"
               volumes:
-                  - "호스트 디렉토리:/app/apps/00_otsdb_copy/"
+                  - "<compose 깃헙 레포를 다운받은 경로+/compose/app_volume>:/app/apps/00_otsdb_copy/"
               environment:
-                  - IP_ADDRESS=<호스트 ip> or <docker-toolbox ip>
-
+                  - IP_ADDRESS=<host ip 혹은 docker-toolbox ip>
+                  
    ex)
 
         # Author : ChulseoungChae
@@ -87,3 +101,6 @@
   
 ## 컨테이너 ssh 접속
     ssh root@[<호스트 ip> or <docker-toolbox ip>] -p <사용자가 지정한 포트번호>
+    
+    
+## 실행결과
