@@ -28,10 +28,10 @@
               #/compose/app_volume과 볼륨공유를하여 app_volume내의 파일들을 수정하면 app 컨테이너 내부의 파일도 동일하게 수정된다
               volumes:
                   - "<compose 깃헙 레포를 다운받은 경로+/compose/app_volume>:/app/apps/00_otsdb_copy/"
-              #데이터를 입력할 TSDB의 ip를 써놓는것, opentsdb 컨테이너를 실행하면 web주소는 http://<host ip>:<60010>가 되기때문에 이부분은 
+              #데이터를 입력할 TSDB의 ip를 써놓는것, opentsdb 컨테이너를 실행하면 web주소는 http://<host_ip>:<60010>가 되기때문에 이부분은 
               host ip(혹은 docker-toolbox ip)를 써주면된다
               environment:
-                  - IP_ADDRESS=<host ip 혹은 docker-toolbox ip>
+                  - IP_ADDRESS=<host_ip 혹은 docker-toolbox_ip>
                   
 
   4. docker-compose로 opentsdb container 실행
@@ -43,6 +43,10 @@
   6. docker-compose로 opentsdb copy container 실행
 
           docker-compose up -d app
+
+  - docker compose 실행 과정 그림
+
+    ![process](./image/1.PNG)
 
 ## docker-compose.yml파일 수정
   docker-compose.yml
@@ -104,3 +108,9 @@
     
     
 ## 실행결과
+
+  - opentsdb web 접속
+    
+      http://<host_ip>:<60010>
+
+      ![result](./image/2.PNG)
