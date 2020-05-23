@@ -1,6 +1,6 @@
 # opentsdb_metric_copy
 
-특정 opentsdb의 metric을 쿼리해 리턴되는 데이터를 본인이 실행하는 docker container opentsdb로 복사
+특정 opentsdb의 metric을 쿼리해 리턴되는 데이터를 본인이 실행하는 docker opentsdb container로 복사
 
 ## 사전준비
   1.  docker/docker-compose 설치
@@ -18,7 +18,7 @@
           
         or
       
-      - 아래링크에서 zip파일 다운로드
+      - 아래링크에서 zip파일 다운로드 후 압축해제, 원하는 디렉토리로 
       
           [Link(https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)](https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)
           
