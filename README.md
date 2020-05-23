@@ -115,9 +115,9 @@
       
   - 아래 정보 입력
       
-      From : 2019/06/03
-      To : 2019/06/04
-      Metric : Elex_data_origin_test
-      Aggregator: None	
+        From : 2019/06/03
+        To : 2019/06/04
+        Metric : Elex_data_origin_test
+        Aggregator: None	
 
       ![result](./image/2.PNG)
