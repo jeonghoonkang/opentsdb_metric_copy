@@ -12,7 +12,7 @@ services:
       #    - WAITSECS=30   
 
     app_copy:
-      image: jihoho/opentsdb_copy:v3
+      image: jihoho/opentsdb_copy:v4
       ports:
           - "5004:22"
       volumes:
@@ -21,7 +21,7 @@ services:
           - IP_ADD=192.168.0.92
           - PORT=60010
     app_get_driving:
-      image: jihoho/opentsdb_get_driving:v3
+      image: jihoho/opentsdb_get_driving:v4
       ports:
           - "5005:22"
       volumes:
