@@ -1,0 +1,31 @@
+# Author : ChulseoungChae
+
+version: '3'
+
+services: 
+    opentsdb:
+      image: petergrace/opentsdb-docker:latest
+      restart: always
+      ports:
+          - "60010:4242"
+      #environment:
+      #    - WAITSECS=30   
+
+    app:
+      image: jihoho/opentsdb_copy:v3
+      ports:
+          - "5004:22"
+      volumes:
+          - "./app_copy_volume:/app/apps/00_otsdb_copy/"
+      environment:
+          - IP_ADDRESS=192.168.0.92
+          - PORT=60010
+    app2:
+      image: jihoho/opentsdb_get_driving:v4
+      ports:
+          - "5005:22"
+      volumes:
+          - "./app_get_driving_volume:/app/apps/02_otsdb_get_drive_startend/"
+      environment:
+          - IP_ADDRESS=192.168.0.92
+          - PORT=60010

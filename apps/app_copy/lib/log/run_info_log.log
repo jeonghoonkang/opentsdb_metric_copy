@@ -1,0 +1,1776 @@
+[INFO] [2019-06-25 18:06:43,967] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 10
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207_
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : *
+ Total Put dps : 72870511
+ Total Time : 1442.5419929
+
+[INFO] [2019-06-25 21:29:40,724] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 10
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207_
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : *
+ Total Put dps : 72870511
+ Total Time : 1312.76614785
+
+[INFO] [2019-06-25 22:36:29,499] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 10
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207_
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : *
+ Total Put dps : 72870511
+ Total Time : 1329.62583613
+
+[INFO] [2019-07-05 00:09:48,660] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 10
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207_
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 197.058774948
+
+[INFO] [2019-07-05 09:37:37,146] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 129.66249299
+
+[INFO] [2019-07-05 09:56:18,078] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 135.505832911
+
+[INFO] [2019-07-05 10:00:30,325] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 130.866944075
+
+[INFO] [2019-07-05 10:13:52,482] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 105.38225913
+
+[INFO] [2019-07-05 10:22:31,615] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 128.905716896
+
+[INFO] [2019-07-05 15:48:44,533] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/07-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 83121
+ Total Time : 143.664428949
+
+[INFO] [2019-07-05 15:56:54,594] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/01-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 15200
+ Total Time : 28.221724987
+
+[INFO] [2019-07-05 15:59:25,998] 
+ Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/01-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 15200
+ Total Time : 28.4224960804
+
+[INFO] [2019-07-05 16:00:25,943] 
+     Query Start : 2014/11/30-00:00:00
+ Query End : 2014/12/01-00:00:00
+ Time unit : m
+ Time long : 15
+ Query url:port : 125.140.110.217:64242
+ Query Metric : _exist_01_HNTs_1130_1207_
+ Put url:port : 125.140.110.217:64242
+ Put Metric : _exist_01_xxtest_1130_1207__id_27
+ pn/cn : 2/12
+ Import file : cp_data
+ Tags : *
+ Carid : 27
+ Total Put dps : 15200
+ Total Time : 23.7896120548
+
+[INFO] [2019-07-05 16:03:35,677] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_1130_1207__id_27
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 27
+     Total Put dps : 15200
+     Total Time : 28.3275749683
+
+[INFO] [2019-07-05 16:08:52,850] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_27
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 27
+     Total Put dps : 15200
+     Total Time : 29.2329959869
+
+[INFO] [2019-07-06 14:50:15,631] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 22.6656589508
+
+[INFO] [2019-07-06 14:51:09,910] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 22.4411010742
+
+[INFO] [2019-07-06 14:55:21,835] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 18.6103830338
+
+[INFO] [2019-07-06 14:55:41,214] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 23.6434669495
+
+[INFO] [2019-07-06 14:56:13,182] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 23.0317401886
+
+[INFO] [2019-07-06 15:04:56,431] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.12432384491
+
+[INFO] [2019-07-06 15:06:35,213] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 22.8417189121
+
+[INFO] [2019-07-06 15:07:59,185] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.13551807404
+
+[INFO] [2019-07-06 17:40:25,524] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.12583613396
+
+[INFO] [2019-07-06 17:40:59,122] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 22.8489851952
+
+[INFO] [2019-07-06 17:42:40,314] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : _exist_01_xxtest_2014/11/30_2014/12/01_id_217
+     pn/cn : 2/12
+     Import file : cp_data
+     Content : *
+     Carid : 217
+     Total Put dps : 14389
+     Total Time : 19.2137601376
+
+[INFO] [2019-07-07 18:13:56,790] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.14163899422
+
+[INFO] [2019-07-07 18:15:22,479] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.14224886894
+
+[INFO] [2019-07-07 18:27:59,599] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.13203787804
+
+[INFO] [2019-07-07 18:34:21,827] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.12965798378
+
+[INFO] [2019-07-07 18:37:09,134] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 4.14124798775
+
+[INFO] [2019-07-07 19:48:53,702] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : 217
+     Total Put dps : 0
+     Total Time : 6.15358614922
+
+[INFO] [2019-07-07 19:50:10,750] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 32.247508049
+
+[INFO] [2019-07-07 19:52:21,420] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 22.2326900959
+
+[INFO] [2019-07-07 19:54:02,839] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 20.1930878162
+
+[INFO] [2019-07-07 20:51:27,749] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.1439390182
+
+[INFO] [2019-07-07 20:53:22,130] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.1445670128
+
+[INFO] [2019-07-07 20:54:46,592] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1777949333
+
+[INFO] [2019-07-07 21:04:31,930] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.2068238258
+
+[INFO] [2019-07-07 21:45:42,214] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.1573140621
+
+[INFO] [2019-07-07 21:48:41,106] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1671171188
+
+[INFO] [2019-07-07 21:51:26,626] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.172137022
+
+[INFO] [2019-07-07 21:52:16,597] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.2087090015
+
+[INFO] [2019-07-07 21:53:01,432] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.1361880302
+
+[INFO] [2019-07-07 21:55:45,604] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1583971977
+
+[INFO] [2019-07-07 21:56:35,906] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.2227389812
+
+[INFO] [2019-07-07 21:57:20,412] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.2093219757
+
+[INFO] [2019-07-07 21:58:35,147] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1408810616
+
+[INFO] [2019-07-07 21:59:41,357] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1562418938
+
+[INFO] [2019-07-07 22:00:08,610] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.1420381069
+
+[INFO] [2019-07-08 06:28:56,192] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.1848769188
+
+[INFO] [2019-07-08 06:29:29,705] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 18.2197029591
+
+[INFO] [2019-07-09 15:11:32,076] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 20.7665510178
+
+[INFO] [2019-07-09 15:12:27,912] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.4891080856
+
+[INFO] [2019-07-10 16:58:10,216] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.8006188869
+
+[INFO] [2019-07-10 16:59:00,841] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.4710149765
+
+[INFO] [2019-07-10 17:02:32,013] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.3936140537
+
+[INFO] [2019-07-14 17:20:31,324] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 14.14260602
+
+[INFO] [2019-07-19 16:08:42,937] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 21.0143928528
+
+[INFO] [2019-07-19 17:22:23,004] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 16.4635620117
+
+[INFO] [2019-07-19 17:27:51,955] 
+     Query Start : 2014/11/30-00:00:00
+     Query End : 2014/12/01-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:64242
+     Query Metric : _exist_01_HNTs_1130_1207_
+     Put url:port : 125.140.110.217:64242
+     Put Metric : none
+     pn/cn : 2/12
+     Import file : id_cnt
+     Content : *
+     Carid : *
+     Total Put dps : 0
+     Total Time : 20.5488839149
+
+[INFO] [2019-11-06 10:55:56,138] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_LENGTH_TOTAL_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 58.3213357925
+
+[INFO] [2019-11-06 11:30:31,909] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_LENGTH_TOTAL_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 56.3220388889
+
+[INFO] [2019-11-06 14:13:53,407] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 62.3318119049
+
+[INFO] [2019-11-06 14:37:40,812] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 80.3453910351
+
+[INFO] [2019-11-06 14:40:32,683] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 84.2604777813
+
+[INFO] [2019-11-06 14:44:17,883] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 78.2261400223
+
+[INFO] [2019-11-06 15:24:58,135] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 74.2383651733
+
+[INFO] [2019-11-08 11:37:42,030] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 54.2694180012
+
+[INFO] [2019-11-12 15:52:30,291] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 48.7988250256
+
+[INFO] [2019-11-12 16:29:22,175] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 30.2037780285
+
+[INFO] [2019-11-13 17:21:34,896] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 30.6453530788
+
+[INFO] [2019-11-13 21:41:33,663] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 34.272135973
+
+[INFO] [2019-11-13 22:06:21,190] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/02-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 36.2974829674
+
+[INFO] [2019-11-13 22:06:57,290] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 34.4061360359
+
+[INFO] [2019-11-19 10:49:00,426] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 0
+     Total Time : 38.9579811096
+
+[INFO] [2019-11-19 10:54:05,087] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 2067533
+     Total Time : 294.735244989
+
+[INFO] [2019-11-19 16:03:26,788] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_test_v2
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 2067533
+     Total Time : 523.327209949
+
+[INFO] [2019-11-21 11:09:57,013] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_v1
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797060
+     Total Put dps : 1252937
+     Total Time : 912.614691973
+
+[INFO] [2019-11-21 14:00:23,230] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_test_v3
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797060
+     Total Put dps : 1364368
+     Total Time : 939.483570099
+
+[INFO] [2019-11-21 14:27:11,536] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : parking_v2
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797060
+     Total Put dps : 1337581
+     Total Time : 950.196428061
+
+[INFO] [2019-11-21 16:17:23,274] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_origin_and_parking
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 3985110
+     Total Time : 499.37590003
+
+[INFO] [2019-11-21 16:48:29,498] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_origin_and_parking
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 3985110
+     Total Time : 493.837262154
+
+[INFO] [2019-11-21 17:17:08,516] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : parking_v2
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_origin_and_parking
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : *
+     Carid : 1225797295
+     Total Put dps : 1337581
+     Total Time : 168.987765074
+
+[INFO] [2019-11-21 17:34:10,860] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : parking_v2
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_origin_and_parking_v1
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : *
+     Carid : 1225797295
+     Total Put dps : 1337581
+     Total Time : 166.94052887
+
+[INFO] [2019-11-21 17:47:37,595] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_origin_and_parking_v1
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 3985110
+     Total Time : 546.723475933
+
+[INFO] [2019-11-22 11:26:17,193] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_unknown_section
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 2385744
+     Total Time : 312.47540307
+
+[INFO] [2019-11-22 13:36:17,227] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_unknown_section_v1
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 49855
+     Total Time : 19.9103028774
+
+[INFO] [2019-11-22 13:53:51,059] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_unknown_section_v1
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1|DRIVE_LENGTH_TOTAL_1
+     Carid : 1225797295
+     Total Put dps : 1018265
+     Total Time : 172.122305155
+
+[INFO] [2019-11-25 17:06:54,412] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_driving_interval
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_filled_all_time
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 7405034
+     Total Time : 855.995633125
+
+[INFO] [2019-11-26 19:37:13,078] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_full_v3
+     Put url:port : 125.140.110.217:54242
+     Put Metric : length_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 86
+     Total Time : 16.9283761978
+
+[INFO] [2019-11-26 19:40:50,361] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_full_v3
+     Put url:port : 125.140.110.217:54242
+     Put Metric : length_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 86
+     Total Time : 20.5785250664
+
+[INFO] [2019-11-26 20:36:17,624] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_full_v3
+     Put url:port : 125.140.110.217:54242
+     Put Metric : length_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 106
+     Total Time : 16.6441149712
+
+[INFO] [2019-11-29 11:25:27,102] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_full_v3
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_calc_length_and_time
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 106
+     Total Time : 18.8536970615
+
+[INFO] [2019-12-03 10:57:58,740] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : d
+     Time long : 7
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_full_v3
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_long_distance_operation
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 1175738
+     Total Time : 194.741827011
+
+[INFO] [2019-12-09 15:35:13,305] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/08-00:00:00
+     Time unit : m
+     Time long : 15
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 40.4851169586
+
+[INFO] [2020-01-22 16:45:28,401] 
+     Query Start : 2019/06/03-00:00:00
+     Query End : 2019/06/04-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_origin
+     Put url:port : 15.164.96.52:4242
+     Put Metric : Elex_data_origin
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797295
+     Total Put dps : 1249745
+     Total Time : 122.475521088
+
+[INFO] [2020-01-30 11:17:52,493] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_remove_outlier
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797295
+     Total Put dps : 1279178
+     Total Time : 178.307836056
+
+[INFO] [2020-01-30 14:01:52,745] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 4.3972928524
+
+[INFO] [2020-01-30 14:03:09,026] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED_1
+     Carid : *
+     Total Put dps : 0
+     Total Time : 4.21344995499
+
+[INFO] [2020-01-30 14:03:48,366] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED
+     Carid : *
+     Total Put dps : 0
+     Total Time : 22.2496061325
+
+[INFO] [2020-01-30 15:12:59,432] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_remove_outlier
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797203
+     Total Put dps : 11343323
+     Total Time : 1517.24984717
+
+[INFO] [2020-01-30 15:49:26,715] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_remove_outlier
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797203
+     Total Put dps : 11343323
+     Total Time : 1406.82442999
+
+[INFO] [2020-02-04 11:53:16,557] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_remove_outlier
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797203
+     Total Put dps : 11343323
+     Total Time : 1452.06747508
+
+[INFO] [2020-02-04 14:46:07,730] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_test
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797203
+     Total Put dps : 11343323
+     Total Time : 1576.5229671
+
+[INFO] [2020-02-04 16:36:40,420] 
+     Query Start : 2019/12/01-00:00:00
+     Query End : 2020/01/01-00:00:00
+     Time unit : d
+     Time long : 31
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_12_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_12_remove_outlier
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_LENGTH_TOTAL|DRIVE_SPEED
+     Carid : 1225797203
+     Total Put dps : 11343323
+     Total Time : 1696.390903
+
+[INFO] [2020-02-13 14:07:56,466] 
+     Query Start : 2019/06/03-00:00:00
+     Query End : 2019/06/04-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_data_origin
+     Put url:port : 10.96.58.27:4242
+     Put Metric : Elex_data_origin
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED_1
+     Carid : 1225797203
+     Total Put dps : 99772
+     Total Time : 7.55418300629
+
+[INFO] [2020-05-25 19:19:15,285] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/07-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_06_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED
+     Carid : *
+     Total Put dps : 0
+     Total Time : 8.05832290649
+
+[INFO] [2020-05-25 19:25:55,433] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/07-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_06_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_06_test2
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED
+     Carid : 1225797297
+     Total Put dps : 432690
+     Total Time : 19.2469539642
+
+[INFO] [2020-05-25 19:34:36,726] 
+     Query Start : 2019/06/01-00:00:00
+     Query End : 2019/06/07-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex_06_origin
+     Put url:port : 125.140.110.217:54242
+     Put Metric : Elex_06_test2
+     pn/cn : 2/2
+     Import file : user_prep
+     Tags : DRIVE_SPEED
+     Carid : 1225797295
+     Total Put dps : 9845469
+     Total Time : 338.414520025
+
+[INFO] [2020-05-26 14:07:01,268] 
+     Query Start : 2020/01/01-00:00:00
+     Query End : 2020/01/07-00:00:00
+     Time unit : d
+     Time long : 1
+     Query url:port : 125.140.110.217:54242
+     Query Metric : Elex.2020.01.origin2
+     Put url:port : 125.140.110.217:54242
+     Put Metric : none
+     pn/cn : 2/2
+     Import file : id_cnt
+     Content : DRIVE_SPEED
+     Carid : *
+     Total Put dps : 0
+     Total Time : 4.04887008667
+
