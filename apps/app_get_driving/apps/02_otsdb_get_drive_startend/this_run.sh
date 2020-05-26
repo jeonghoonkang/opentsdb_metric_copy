@@ -47,7 +47,7 @@ seconds='86400'
 processingtype='none'
 
 # [11] 주의할점은 '*'로 입력하면 쉘 명령으로 동작함. 사용하면 안됨 
-content='DRIVE_LENGTH_TOTAL|DRIVE_SPEED'
+content='DRIVE_LENGTH_TOTAL_1|DRIVE_SPEED_1'
 # [12]
 agg='none'
 # [13] # id is carid

@@ -21,7 +21,7 @@ def _getse(s_ut, e_ut, _dictbuf_list, _sec, meta):
     put_dps_dict2 = {}
 
     for _dict in _dictbuf_list:
-        if _dict['tags']['fieldname'] == 'DRIVE_SPEED':
+        if _dict['tags']['fieldname'] == 'DRIVE_SPEED_1':
             copied_ori_dict1 = copy.deepcopy(_dict)
             copied_ori_dict2 = copy.deepcopy(_dict)
             copied_ori_dict3 = copy.deepcopy(_dict)
@@ -29,7 +29,7 @@ def _getse(s_ut, e_ut, _dictbuf_list, _sec, meta):
         else :
             total_dict[_dict['tags']['fieldname']] = _dict['dps']
 
-    DSkeylist = list(total_dict['DRIVE_SPEED'].keys())
+    DSkeylist = list(total_dict['DRIVE_SPEED_1'].keys())
     DSkeylist.sort()
     print(len(DSkeylist))
     start=-1
@@ -56,7 +56,7 @@ def _getse(s_ut, e_ut, _dictbuf_list, _sec, meta):
                         if add > time_diff:
                             _check1=True
                             break
-                        start_dis = total_dict['DRIVE_LENGTH_TOTAL'][str(start+add)]
+                        start_dis = total_dict['DRIVE_LENGTH_TOTAL_1'][str(start+add)]
                         break
                     except KeyError:
                         add+=1
@@ -66,7 +66,7 @@ def _getse(s_ut, e_ut, _dictbuf_list, _sec, meta):
                         if add < -time_diff:
                             _check2=True
                             break
-                        end_dis = total_dict['DRIVE_LENGTH_TOTAL'][str(end+add)]
+                        end_dis = total_dict['DRIVE_LENGTH_TOTAL_1'][str(end+add)]
                         break
                     except KeyError:
                         add-=1

@@ -14,7 +14,7 @@ url_in='125.140.110.217'
 # [2]
 port_in=54242
 # [3]
-metric_in='Elex.2020.01.origin2'
+metric_in='Elex.2020.01.remove_outlier_v2'
 
 #target_id=50
 
