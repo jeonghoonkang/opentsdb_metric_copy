@@ -106,11 +106,11 @@ host에서  csv 파일을 읽어 docker opentsdb container로 push
 
   - csv_to_opentsdb docker-compose 전체 구조 및 실행 화면
 
-    ![opentsdb](./image/image1.png)
+    ![opentsdb](./image/image1.PNG)
     
-    ![csv2ots](./image/image2.png)
+    ![csv2ots](./image/image2.PNG)
     
-    ![csv2ots](./image/image3.png)
+    ![csv2ots](./image/image3.PNG)
 
 ## 코드 수정
   docker-compose.yml 파일에서 app의 볼룸공유 디렉토리의 원하는 파일 editor로 수정가능
