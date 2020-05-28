@@ -18,7 +18,7 @@ services:
       volumes:
           - "./app_copy_volume:/app/apps/00_otsdb_copy/"
       environment:
-          - IP_ADD=192.168.0.92
+          - IP_ADD=192.168.99.100
           - PORT=60010
     app_get_driving:
       image: jihoho/opentsdb_get_driving:v5
