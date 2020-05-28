@@ -17,7 +17,7 @@ ts=$TIMEFIELD
 carid=$IDFIELD
 # [4] opentsdb metric
 #metric="test2"
-metric='test'
+metric=$METRIC
 # [5] producer process count
 #pn=2
 pn=$PN
