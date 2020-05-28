@@ -1,0 +1,29 @@
+# Author : HojunJi
+
+version: '3'
+
+services: 
+    opentsdb:
+      image: petergrace/opentsdb-docker:latest
+      restart: always
+      ports:
+          - "60010:4242"
+      #environment:
+      #    - WAITSECS=30   
+
+    app_csv_otsdb:
+      image: jihoho/csv_to_opentsdb:v2
+      ports:
+        - "5005:22"
+      volumes:
+        - "./app_csv2ots_volume:/app/CSV2TSDB/"
+        - "./csv:/app/csv"
+      environment:
+        - IP_ADD=192.168.0.92
+        - PORT=60010
+        - FIELDNAME=DRIVE_SPEED|DRIVE_LENGTH_TOTAL
+        - IDFIELD=PHONE_NUM
+        - TIMEFIELD=RECORD_TIME
+        - METRIC=csv_data
+        - PN=2
+        - CN=2
