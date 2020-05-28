@@ -14,17 +14,17 @@
   
       - git clone
       
-            git clone https://github.com/ChulseoungChae/opentsdb_metric_copy.git
+            $ git clone https://github.com/ChulseoungChae/docker-compose.git
           
         or
       
       - 아래링크에서 zip파일 다운로드 후 압축해제, 원하는 디렉토리로 
       
-          [Link(https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)](https://github.com/ChulseoungChae/opentsdb_metric_copy/releases)
+          [Link(https://github.com/ChulseoungChae/docker-compose/releases)](https://github.com/ChulseoungChae/docker-compose/releases)
           
   2. compose 디렉토리로 이동
   
-          cd compose
+          cd docker-compose/opentsdb_metric_copy
   
   3. docker-compose.yml파일 수정(수정할 내용은 하단에 기재)
       - 필수 수정부분 설명
@@ -44,13 +44,13 @@
 
   4. docker-compose로 opentsdb container 실행
 
-          docker-compose up -d opentsdb
+          $ docker-compose up -d opentsdb
 
   5. 1분 대기
 
   6. docker-compose로 opentsdb copy container 실행
 
-          docker-compose up -d app
+          $ docker-compose up -d app
 
   - docker compose 실행 과정 그림
 
@@ -109,10 +109,10 @@
   docker-compose.yml 파일에서 app의 볼룸공유 디렉토리의 원하는 파일 editor로 수정가능
 
 ## 수정한코드 실행
-    docker restart <app container name>
+    $ docker exec <app container name> bash <절대경로/실행파일>
   
 ## 컨테이너 ssh 접속
-    ssh root@[<호스트 ip> or <docker-toolbox ip>] -p <사용자가 지정한 포트번호>
+    $ ssh root@[<호스트 ip> or <docker-toolbox ip>] -p <사용자가 지정한 포트번호>
     
     
 ## 실행결과
