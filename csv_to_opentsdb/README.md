@@ -59,7 +59,7 @@ host에서  csv 파일을 읽어 docker opentsdb container로 push
                 - "5005:22"
               volumes:
                 - "./app_csv2ots_volume:/app/CSV2TSDB/"
-                - "[csv파일 디렉터리]:/app/csv"
+                - "[로컬 csv파일 디렉토리(마운트지점)]:/app/csv"
               environment:
                 - IP_ADD=[호스트 IP]
                 - PORT=[opentsdb포트포워딩 포트]
